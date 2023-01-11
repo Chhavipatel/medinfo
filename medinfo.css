@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin:0 ;
+    box-sizing: border-box;
+}
+.chhavu{
+    height: 900px;
+    width: 500px;
+    margin: auto;
+    margin-top: 50px;
+}
+.imge{
+    height: 250px;
+    width: 250px;
+    margin: auto;
+    margin-top: 80px;
+}
+.imge img{
+    width: 200px;
+    height: 200px;
+}
+.para{
+    height: 40px;
+    width: 250px;
+    margin: auto;
+    margin-top: -11%;
+    padding-right: -3%;
+    /* padding-top: -1%; */
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+/* h3{
+    padding-right: -4%;
+} */
+.para2{
+    font-weight: 400;
+    color: grey;
+    font-size: 10px;
+    padding-top:  8px;
+}
+.btn{
+    height: 25px;
+    width: 250px;
+    margin: auto;
+    background-color: blueviolet;
+    border-radius: 3px;
+    text-align: center;
+    margin-top: 10px;
+}
+.cv{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    /* margin-top: 700px; */
+    font-family: sans-serif;
+    padding-top: 25px;
+}
